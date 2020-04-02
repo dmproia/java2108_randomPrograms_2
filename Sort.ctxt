@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Sort()
+comment2.params=array\ low\ n
+comment2.target=void\ quick_srt(int[],\ int,\ int)
+comment3.params=a\ n
+comment3.target=void\ bubble_srt(int[],\ int)
+comment4.params=min\ max
+comment4.target=int\ randomRange(int,\ int)
+comment5.params=
+comment5.target=void\ drawLines()
+numComments=6
